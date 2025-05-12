@@ -1,7 +1,12 @@
 # COVID-19-Global-Data-Tracker-Project
 # 🦠 COVID-19 Global Data Tracker
 
-A data analysis project that tracks and visualizes global COVID-19 trends including cases, deaths, and vaccinations across selected countries.
+A data analysis project that tracks and visualizes global COVID-19 trends, including cases, deaths, and vaccinations across selected countries.
+
+⚠️ **Note:** The dataset file (`owid-covid-data.csv`) is not included in the repository due to file size limits on GitHub.
+
+📥 [Click here to download the dataset](https://covid.ourworldindata.org/data/owid-covid-data.csv) and save it in the same directory as the notebook before running it.
+
 
 ## 📌 Project Objectives
 
