@@ -29,7 +29,7 @@ A data analysis project that tracks and visualizes global COVID-19 trends, inclu
 1. Clone the repository or download the ZIP.
 2. Open the `covid_analysis.ipynb` file in Jupyter Notebook or VS Code with Python and Jupyter extensions.
 3. Run each cell to view the data analysis and visualizations.
-4. Optionally, export the notebook to PDF for presentation using `File > Export Notebook As > PDF`.
+4. Optionally, export the notebook to PDF for presentation using `File > Export Notebook As > PDF`, that is, if you're using Jupyter.
 5. View the project directly on GitHub: \[Insert your GitHub repository link here]
 
 ## 💡 Insights & Reflections
